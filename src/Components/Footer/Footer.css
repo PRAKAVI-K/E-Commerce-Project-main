@@ -74,8 +74,9 @@
   margin: 10px 0px;
 }
 .Help a {
+color:red;
   text-decoration: none;
-  color: inherit;
+
 }
 .Help a:hover {
  
@@ -166,7 +167,7 @@
 
 .About a:hover,
 .Help a:hover {
-  font-weight: bold;
+ 
   text-decoration: underline;
 }
 
